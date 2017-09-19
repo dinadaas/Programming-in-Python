@@ -1,0 +1,17 @@
+### Place your written answers in this text file ###
+
+
+Q1. 
+3.1.1 f2 would be most predictive of spam because the P(spam) is 0.4, and P(Not-Spam) is 0.6. The value of (f2|Spam) is 0.3, closest to the P(Spam) of 0.4, and the P(f2|Not-Spam) is equal to P(Not-Spam) at 0.6.
+3.1.2 You would have to add the class probability P(Phishing) and adjust the value of P(Spam) and P(Not-Spam) to account for the division of emails into three categories as opposed to 2. You would also have to add the P(f|Phishing) and adjust the feature probabilities to reflect f1,…,f4 for the third class probability as well.
+
+Q2.
+3.2.1 With 0 virtual counts, the predictor would not have any values to go off of, and would therefore be a poor predictor for the posterior values. With a virtual count of 100, the predictor would also be inaccurate, because the virtual counts would confuse the predictor and skew it in the direction of the virtual counts as opposed to the true counts.
+3.2.2 
+
+Q3.
+3.3.1
+3.3.2
+3.3.3
+
+Bonus.
